@@ -1,5 +1,4 @@
-<div align="center">
-  <h1>Hello, I'm Ibrahim 👋</h1>
+<h1>Hello, I'm Ibrahim 👋</h1>
 
   🚀 A software enthusiast exploring the world of Android development with Flutter 📱 and experienced in Python 🐍.
 
