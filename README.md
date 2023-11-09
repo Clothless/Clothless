@@ -18,3 +18,5 @@
 
   Feel free to explore my GitHub repositories to see my learning journey! 🚀
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clothless)](https://github.com/anuraghazra/github-readme-stats)
