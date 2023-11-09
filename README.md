@@ -1,3 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <h1>Hello, I'm Ibrahim 👋</h1>
 
   🚀 A software enthusiast exploring the world of Android development with Flutter 📱 and experienced in Python 🐍.
