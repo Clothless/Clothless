@@ -1,5 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Clothless)](https://github.com/ryo-ma/github-profile-trophy)
 
+![Leetcode](https://leetcode-badge-sage.vercel.app/badge/ibradzm?theme={light|dark|neutral})
+
 
 <h1>Hello, I'm Ibrahim 👋</h1>
 
