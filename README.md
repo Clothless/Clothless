@@ -18,6 +18,7 @@
   - LinkedIn: <a href="https://www.linkedin.com/in/ibrahim-chaibedraa/">(Ibrahim Chaibedraa)</a> 📎
   - Facebook: <a href="https://www.facebook.com/Ibrahim.Chaibedraa/">(Ibrahim Chiabedraa)</a> 🐦
   - Twitter: <a href="https://twitter.com/IChaibedraa">(Ibrahim Chiabedraa)</a> 🐦
+  - Medium: <a href="https://medium.com/@chaibedraa.mohamedibrahim">(Ibrahim Chiabedraa)</a> 🌐
 
   Feel free to explore my GitHub repositories to see my learning journey! 🚀
 </div>
