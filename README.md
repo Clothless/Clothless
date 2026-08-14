@@ -1,6 +1,8 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Clothless)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=Clothless&theme=onedark&row=1&column=7&margin-w=10&no-bg=true&no-frame=true)
 
-![Leetcode](https://leetcode-badge-sage.vercel.app/badge/ibradzm?theme=neutral)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Clothless&theme=github_dark)
+
+![Leetcode](https://leetcard.jacoblin.cool/Clothless)
 
 
 <h1>Hello, I'm Ibrahim 👋</h1>
